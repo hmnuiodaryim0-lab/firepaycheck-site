@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/firepaycheck-site/sitemap.xml
+Sitemap: https://hmnuiodaryim0-lab.github.io/firepaycheck-site/sitemap.xml
